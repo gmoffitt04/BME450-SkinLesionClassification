@@ -1,8 +1,10 @@
 #Title
-       Skin Lesion Classification Model
+
+Skin Lesion Classification Model
 
 #Team Members
-      Grant Moffitt (gmoffitt04)
+
+Grant Moffitt (gmoffitt04)
 
 #Project Description
 
